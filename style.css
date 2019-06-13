@@ -1,0 +1,50 @@
+    body {
+        background-image: url("https://s3.amazonaws.com/spoonflower/public/design_thumbnails/0130/6183/rropalescent_vubism_shop_thumb.png");
+        background-size: 100%;
+    }
+    
+    .jumbotron {
+        background-image: url("https://media3.giphy.com/media/A6zZlOQr9Cy1W/giphy.gif");
+        font-weight: bolder;
+        margin: 50px;
+        text-align: center;
+        font-family: 'Pacifico', cursive;
+    }
+    
+    .container-two {
+        background: lightgreen;
+        margin: 0px 300px;
+        padding: 5px 50px;
+        font-weight: bold;
+        font-family: 'Amarante', cursive;
+        width: 500px;
+        position: relative;
+    }
+    
+    .container-three {
+        background: lightpink;
+        margin: 0px 300px;
+        padding: 10px 50px 30px 50px;
+        text-align: center;
+        font-weight: bold;
+        font-family: 'Nosifer', cursive;
+        width: 500px;
+        position: relative;
+    }
+    
+    #images {
+        margin: 0px 400px;
+    }
+    
+    .art-button {
+        background: lightseagreen;
+        margin: 5px;
+        border-radius: 15px 15px 15px 15px;
+    }
+    
+    #add-art {
+        background: plum;
+        border-radius: 5px;
+        position: relative;
+        left: 250px;
+    }
